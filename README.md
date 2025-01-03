@@ -15,5 +15,4 @@ Fall and Winter show more unpredictable shopping behavior. However, colder state
 For marketers, this means focusing on major sales campaigns during Spring for warmer regions, while planning Fall and Winter promotions in colder states to maximize seasonal demand and drive sales.
 
 
-# Conclusion
 By combining Tableau’s powerful visualization capabilities with SQL for data extraction, this project uncovers crucial trends in seasonal purchasing behavior, customer preferences, and demographic engagement. These insights provide businesses with a clear roadmap for improving customer acquisition, retention, and overall business growth.
